@@ -1,0 +1,16 @@
+D:\PP\day 4 snake and ladder\Snake and ladder\Snake and ladder\obj\Debug\net5.0\Snake and ladder.csproj.AssemblyReference.cache
+D:\PP\day 4 snake and ladder\Snake and ladder\Snake and ladder\obj\Debug\net5.0\Snake and ladder.GeneratedMSBuildEditorConfig.editorconfig
+D:\PP\day 4 snake and ladder\Snake and ladder\Snake and ladder\obj\Debug\net5.0\Snake and ladder.AssemblyInfoInputs.cache
+D:\PP\day 4 snake and ladder\Snake and ladder\Snake and ladder\obj\Debug\net5.0\Snake and ladder.AssemblyInfo.cs
+D:\PP\day 4 snake and ladder\Snake and ladder\Snake and ladder\obj\Debug\net5.0\Snake and ladder.csproj.CoreCompileInputs.cache
+D:\PP\day 4 snake and ladder\Snake and ladder\Snake and ladder\bin\Debug\net5.0\Snake and ladder.exe
+D:\PP\day 4 snake and ladder\Snake and ladder\Snake and ladder\bin\Debug\net5.0\Snake and ladder.deps.json
+D:\PP\day 4 snake and ladder\Snake and ladder\Snake and ladder\bin\Debug\net5.0\Snake and ladder.runtimeconfig.json
+D:\PP\day 4 snake and ladder\Snake and ladder\Snake and ladder\bin\Debug\net5.0\Snake and ladder.runtimeconfig.dev.json
+D:\PP\day 4 snake and ladder\Snake and ladder\Snake and ladder\bin\Debug\net5.0\Snake and ladder.dll
+D:\PP\day 4 snake and ladder\Snake and ladder\Snake and ladder\bin\Debug\net5.0\Snake and ladder.pdb
+D:\PP\day 4 snake and ladder\Snake and ladder\Snake and ladder\obj\Debug\net5.0\Snake and ladder.dll
+D:\PP\day 4 snake and ladder\Snake and ladder\Snake and ladder\obj\Debug\net5.0\refint\Snake and ladder.dll
+D:\PP\day 4 snake and ladder\Snake and ladder\Snake and ladder\obj\Debug\net5.0\Snake and ladder.pdb
+D:\PP\day 4 snake and ladder\Snake and ladder\Snake and ladder\obj\Debug\net5.0\Snake and ladder.genruntimeconfig.cache
+D:\PP\day 4 snake and ladder\Snake and ladder\Snake and ladder\obj\Debug\net5.0\ref\Snake and ladder.dll
